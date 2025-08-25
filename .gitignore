@@ -1,0 +1,4 @@
+venv/
+.env
+
+mongo_data/
